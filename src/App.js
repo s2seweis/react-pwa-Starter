@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import Board from "./components/Board";
 import Drink from "./components/Drink";
 
+import Snippets from "./components/Snippets";
+
 export default function App() {
 	const [isDrink, setIsDrink] = useState();
 
@@ -16,6 +18,7 @@ export default function App() {
 
 				<h2 style={{textAlign:"center", color:"white", fontSize:"2rem"}}>React PWA Starter & Tailwind</h2>
 
+				<Snippets/>
 
 			</div>
 		</div>
