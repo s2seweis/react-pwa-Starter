@@ -25,3 +25,6 @@ Link: https://github.com/Chensokheng/idrinkv2
 
 Comment:
 Need 10 Basic react Snippets for my coming Portfolio!
+
+Next:
+Add Firebase & Redux 
